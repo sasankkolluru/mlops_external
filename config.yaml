@@ -1,0 +1,6 @@
+seed: 42
+dataset_version: v2
+test_size: 0.2
+experiment_name: Ceramic_Kiln_Energy_Prediction
+registered_model_name: CeramicKilnEnergyPredictor
+mlflow_tracking_uri: sqlite:///mlflow.db

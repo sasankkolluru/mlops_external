@@ -1,0 +1,15 @@
+{
+  "LinearRegression": {
+    "mae": 232.33894742599824,
+    "rmse": 296.8809817735503,
+    "r2": 0.8883515129189692,
+    "run_id": "38bae5f614e94593a92bd3d11900c6ec"
+  },
+  "RandomForestRegressor": {
+    "mae": 161.25409116923146,
+    "rmse": 200.88007127356494,
+    "r2": 0.9488834193305205,
+    "run_id": "74f6aa6de0f1497bab29862ae86270bd"
+  },
+  "best_model": "RandomForestRegressor"
+}

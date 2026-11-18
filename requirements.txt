@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+mlflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pyarrow
+pyyaml
+reportlab
+httpx
+pytest
+ruff

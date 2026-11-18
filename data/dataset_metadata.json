@@ -1,0 +1,25 @@
+{
+  "generation_date": "2026-11-18",
+  "generation_seed": 42,
+  "records_per_version": 400,
+  "feature_columns": [
+    "pottery_load_kg",
+    "target_temperature_c",
+    "initial_moisture_pct",
+    "planned_firing_duration_hours",
+    "kiln_insulation_rating",
+    "kiln_volume_m3",
+    "ambient_temperature_c"
+  ],
+  "target": "energy_consumption_kwh",
+  "versions": {
+    "v1": {
+      "kiln_type": "Modern Kiln",
+      "assumptions": "Energy combines thermal load, kiln heating, moisture evaporation, duration, explicit insulation heat loss, ambient effects, and Gaussian measurement noise."
+    },
+    "v2": {
+      "kiln_type": "Older Kiln",
+      "assumptions": "Energy combines thermal load, kiln heating, moisture evaporation, duration, explicit insulation heat loss, ambient effects, and Gaussian measurement noise."
+    }
+  }
+}
