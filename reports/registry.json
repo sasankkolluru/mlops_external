@@ -1,6 +1,6 @@
 {
   "model_name": "CeramicKilnEnergyPredictor",
-  "model_version": "3",
-  "run_id": "74f6aa6de0f1497bab29862ae86270bd",
-  "model_uri": "runs:/74f6aa6de0f1497bab29862ae86270bd/model"
+  "model_version": "4",
+  "run_id": "3346b3fc2478470eb57e5d97b0aafdb9",
+  "model_uri": "runs:/3346b3fc2478470eb57e5d97b0aafdb9/model"
 }

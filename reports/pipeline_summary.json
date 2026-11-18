@@ -6,21 +6,21 @@
       "mae": 232.33894742599824,
       "rmse": 296.8809817735503,
       "r2": 0.8883515129189692,
-      "run_id": "38bae5f614e94593a92bd3d11900c6ec"
+      "run_id": "b603763d8c154192b77258f01b9a67a2"
     },
     "RandomForestRegressor": {
       "mae": 161.25409116923146,
-      "rmse": 200.88007127356494,
-      "r2": 0.9488834193305205,
-      "run_id": "74f6aa6de0f1497bab29862ae86270bd"
+      "rmse": 200.88007127356497,
+      "r2": 0.9488834193305203,
+      "run_id": "3346b3fc2478470eb57e5d97b0aafdb9"
     },
     "best_model": "RandomForestRegressor"
   },
   "registry": {
     "model_name": "CeramicKilnEnergyPredictor",
-    "model_version": "3",
-    "run_id": "74f6aa6de0f1497bab29862ae86270bd",
-    "model_uri": "runs:/74f6aa6de0f1497bab29862ae86270bd/model"
+    "model_version": "4",
+    "run_id": "3346b3fc2478470eb57e5d97b0aafdb9",
+    "model_uri": "runs:/3346b3fc2478470eb57e5d97b0aafdb9/model"
   },
   "version_2_mean_greater_than_version_1": true
 }
