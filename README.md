@@ -31,6 +31,7 @@ curl.exe -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/jso
 - `reports/model_metrics.json`, `reports/model_comparison.csv`: measured model results.
 - `reports/registry.json`: verified MLflow registration metadata.
 - `reports/final_report.pdf`: generated project report.
+- `reports/project_documentation.pdf`: complete aim, architecture, workflow, implementation, execution, API, testing, and limitations documentation.
 
 The synthetic data demonstrates workflow mechanics only; it is not evidence of industrial prediction accuracy. GitHub Actions is prepared in `.github/workflows/ci.yml` and is pending execution after the repository is pushed.
 

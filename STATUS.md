@@ -55,6 +55,7 @@ The main unfinished items are external GitHub execution/submission and several c
 | Reporting | PDF report generated with actual metrics and plots | ✅ | `reports/final_report.pdf` exists |
 | Reporting | Every requested PDF section from the master checklist | ✅ | Expanded report now includes the requested academic narrative, architecture diagram, dataset comparison, feature engineering, model evaluation, MLflow metadata, API examples, CI/CD status, testing results, limitations, conclusion, and references. |
 | Documentation | README with install, run, test, API, MLflow, and CI instructions | ✅ | `README.md` |
+| Documentation | Complete whole-project documentation PDF | ✅ | `reports/project_documentation.pdf` |
 | Documentation | EDA notebook | ⚠️ | Notebook exists with a basic inspection cell; it is not a full exploratory analysis notebook. |
 | Repository | Git initialized and initial commit created | ✅ | Commit `24d3931` |
 | Repository | GitHub repository created and pushed | ⬜ | No remote repository or push has been verified. |
